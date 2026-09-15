@@ -53,3 +53,18 @@ Telco-Customer-Churn-Analytics/
 ├── PowerBI/
 ├── Screenshots/
 └── README.md
+📈 Dashboard
+
+The Power BI dashboard provides interactive analysis of:
+
+Customer churn
+Contract risk
+Internet service risk
+Customer tenure
+Payment methods
+Monthly charges
+Senior citizen churn
+High-risk customer segments
+👤 Author
+
+Mekala Sanjana
