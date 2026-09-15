@@ -69,6 +69,3 @@ Telco-Customer-Churn-Analytics/
 ├── Screenshots/
 └── README.md
 
-## 👤 Author
-
-**Mekala Sanjana**
